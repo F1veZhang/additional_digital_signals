@@ -36,5 +36,3 @@ Study materials supporting the findings may be requested from the corresponding 
 ## License status
 
 No open-source license has been selected or approved by the authors. Public visibility does not by itself grant an open-source license or permission to redistribute third-party material. See [NOTICE](NOTICE.md). Dependency licenses remain their respective owners' terms.
-
-See [中文说明](README_zh.md) for a Chinese summary. This release was prepared on 22 October 2026; no new research computation was performed during packaging.
