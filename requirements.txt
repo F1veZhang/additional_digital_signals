@@ -1,0 +1,11 @@
+# Known versions from the preserved October 2026 execution metadata.
+# Python 3.11.13; original Torch build 2.8.0+cu129 on Windows.
+# This list has not been installed or end-to-end tested for this code release.
+numpy==2.0.1
+pandas==2.3.2
+scipy==1.16.0
+scikit-learn==1.7.1
+# threadpoolctl version was not recorded in the inspected metadata.
+threadpoolctl
+catboost==1.2.8
+torch==2.8.0
