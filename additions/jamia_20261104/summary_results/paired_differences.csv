@@ -1,0 +1,9 @@
+task,reference,candidate,metric,estimate_pp,ci_low_pp,ci_high_pp,valid_bootstrap,ci_status,bootstrap_requested,bootstrap_seed,bootstrap_design,conditional_on_fixed_predictions_and_thresholds
+CN_worry,Base_original,Full_original,TPR,-17.777777777777775,-31.25,0.0,2000,reported,2000,20261015,whole_seasons,True
+CN_worry,Base_original,Full_constrained,TPR,-11.111111111111107,-41.66666666666667,27.77777777777778,2000,reported,2000,20261015,whole_seasons,True
+CN_worry,Base_original,Full_original,FPR,-18.404907975460123,-28.947368421052637,-8.641975308641975,2000,reported,2000,20261015,whole_seasons,True
+CN_worry,Base_original,Full_constrained,FPR,-14.723926380368098,-34.21052631578948,3.0864197530864197,2000,reported,2000,20261015,whole_seasons,True
+US_long_ILI,Base_original,Full_original,TPR,0.5783385909568839,-5.27096969847286,6.108339686314192,2000,reported,2000,20261015,independent_regions_and_whole_seasons,True
+US_long_ILI,Base_original,Full_constrained,TPR,-5.099894847528919,-15.023124649373552,3.3856562504546024,2000,reported,2000,20261015,independent_regions_and_whole_seasons,True
+US_long_ILI,Base_original,Full_original,FPR,-0.3337041156840942,-3.471043433469571,3.2345168154945076,2000,reported,2000,20261015,independent_regions_and_whole_seasons,True
+US_long_ILI,Base_original,Full_constrained,FPR,-0.6952169076751946,-4.826544030089934,2.961895587798715,2000,reported,2000,20261015,independent_regions_and_whole_seasons,True

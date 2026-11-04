@@ -1,0 +1,23 @@
+[
+  {
+    "file": "source/saved_predictions.py",
+    "source_project_relative": "jamia_revision_20261104_r01/Work/software_stage/saved_predictions.py",
+    "original_sha256": "ec5663e9abf50f7ea94c21dcb78b61f56936981e6614e4b8be6eaa19f3880a85",
+    "released_sha256": "1fade82db39b1ca3cfcf35a312af8e90511a54b1dc3148fe6c8243eff1b17cb4",
+    "change": "Replace inferred root paths with explicit ILI_ANALYSIS_ROOT and, where required, ILI_PROJECT_ROOT; statistical AST unchanged."
+  },
+  {
+    "file": "source/analyze_false_alarm.py",
+    "source_project_relative": "jamia_revision_20261104_r01/Work/software_stage/analyze_false_alarm.py",
+    "original_sha256": "a8bb9aa592bef86f923de2bb67cb20ca8370b2214b1aeff6d91a0ff35f023d34",
+    "released_sha256": "02dea1b4babaebce8facdb80c366ce0ef450e452970b59392d4be7cbf76ec621",
+    "change": "Replace inferred root paths with explicit ILI_ANALYSIS_ROOT and, where required, ILI_PROJECT_ROOT; statistical AST unchanged."
+  },
+  {
+    "file": "source/verify_delivery.py",
+    "source_project_relative": "jamia_revision_20261104_r01/Work/software_stage/verify_delivery.py",
+    "original_sha256": "f44524b270575160d5e33c52d855de1cc892d361c8c2d098f69288851af13981",
+    "released_sha256": "8e495e4d9c90932bb4510c4b2315b10539276cd847cb2253fe44b2d0c81df864",
+    "change": "Replace inferred root paths with explicit ILI_ANALYSIS_ROOT and, where required, ILI_PROJECT_ROOT; statistical AST unchanged."
+  }
+]
