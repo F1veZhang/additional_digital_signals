@@ -1,0 +1,108 @@
+{
+  "addition": "jamia_20261104",
+  "created_utc": "2026-11-04T13:53:51.675434+00:00",
+  "source_repository": "https://github.com/F1veZhang/additional_digital_signals",
+  "observed_repository_tree_sha": "076e255800818bddb3fee555d70300217046147c",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 52,
+      "sha256": "b8358127070fe2c2b5a566df1262d98fbe4a61fa3cb95f161c2f4aec0e1b0083"
+    },
+    {
+      "file": "docs/code_changes.json",
+      "bytes": 1463,
+      "sha256": "bbd1e54969e1ae195a6e847c6f7d9e50bf517cdbac0455a473d96f1c76051abc"
+    },
+    {
+      "file": "docs/INPUT_CONTRACT.md",
+      "bytes": 3135,
+      "sha256": "6da401eb1df9d6aa6f69916a44ae0f8b0012a5e08a6040ef49863ecba8232ac6"
+    },
+    {
+      "file": "NOTICE.md",
+      "bytes": 754,
+      "sha256": "5e22a60688237115e31f0dcb3ca54031477300625dc9764b8396b8dd656a63a3"
+    },
+    {
+      "file": "plot_operating_points.py",
+      "bytes": 3988,
+      "sha256": "cbfc170b506d72290bd384743d7010d870515b8670826ad339c5588908f393c5"
+    },
+    {
+      "file": "provenance/hfgi_release_files.json",
+      "bytes": 1934,
+      "sha256": "9366523cfd0e32337d441c991d540319b8659847868d2b43b82c86fb1f240612"
+    },
+    {
+      "file": "provenance/hfgi_version_file_history.csv",
+      "bytes": 1814,
+      "sha256": "976333707c1ca5bb965a02696dc4323c620a5d1c102f804f5c6229278feca40c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 3439,
+      "sha256": "43dde947f6a48a8504a4bb42846ec35dd2ac739e6a47f762fdcde6a73eb825ed"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 27,
+      "sha256": "0439d44e9ad46e0973369f03ca4b91cf1be5c7c2e2b366a99695a3f2beff6f44"
+    },
+    {
+      "file": "source/analyze_false_alarm.py",
+      "bytes": 12843,
+      "sha256": "02dea1b4babaebce8facdb80c366ce0ef450e452970b59392d4be7cbf76ec621"
+    },
+    {
+      "file": "source/runtime_paths.py",
+      "bytes": 882,
+      "sha256": "82f5dc9803539ef9436bb0c203315f6e05db9388f4e90b8bb50a155f93879177"
+    },
+    {
+      "file": "source/saved_predictions.py",
+      "bytes": 17359,
+      "sha256": "1fade82db39b1ca3cfcf35a312af8e90511a54b1dc3148fe6c8243eff1b17cb4"
+    },
+    {
+      "file": "source/verify_delivery.py",
+      "bytes": 4222,
+      "sha256": "8e495e4d9c90932bb4510c4b2315b10539276cd847cb2253fe44b2d0c81df864"
+    },
+    {
+      "file": "summary_results/overall_three_schemes.csv",
+      "bytes": 612,
+      "sha256": "01d6a8ddff6670f19ccc9ef90acc8a35e075f982479dc56a9fc6aa3e549ac6c6"
+    },
+    {
+      "file": "summary_results/paired_differences.csv",
+      "bytes": 1457,
+      "sha256": "6f00659d17f231d032bae63e96fe156a48649822b28b17e589cac17f431c7c6c"
+    },
+    {
+      "file": "summary_results/seasonal_three_schemes.csv",
+      "bytes": 3863,
+      "sha256": "ac489da9dab6dcc7d80786f9a9605edd6e1a8fae114a46de16b0d1e20fd2e6d0"
+    },
+    {
+      "file": "summary_results/validation_calibration.csv",
+      "bytes": 2073,
+      "sha256": "bd3bf1d70dbc372d53a014f10b2ae02013775ab05931284e5582622cde46fd48"
+    },
+    {
+      "file": "tools/check_release.py",
+      "bytes": 1457,
+      "sha256": "9489dea11be00be5ec6051b89dce85c49138c0a1b0e0e8b61c7382e264113b31"
+    },
+    {
+      "file": "tools/test_release_logic.py",
+      "bytes": 4406,
+      "sha256": "adc6b98bd9aa8a09f40ff4aa7930709d90b41fa3a40fbd8f032eed4c6e345845"
+    },
+    {
+      "file": "tools/verify_hfgi_files.py",
+      "bytes": 1605,
+      "sha256": "26d828a928a475f4bdabb0713521e6ef961593dd842b5815f2e710cea087a556"
+    }
+  ]
+}

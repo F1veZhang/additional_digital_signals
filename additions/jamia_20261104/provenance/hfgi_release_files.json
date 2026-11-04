@@ -1,0 +1,39 @@
+{
+  "dataset_doi": "10.7910/DVN/T39JBY",
+  "dataset_id": 13094071,
+  "release": "3.1",
+  "release_time_utc": "2026-01-27T22:54:26Z",
+  "verified_date": "2026-11-04",
+  "repository_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T39JBY&version=3.1",
+  "metadata_url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/T39JBY",
+  "dataset_license": "CC0 1.0",
+  "files": [
+    {
+      "filename": "flourishingStateMonth.parquet",
+      "file_id": 13094129,
+      "bytes": 17143377,
+      "md5": "15d94ab940ffd88966eea090463d43ae",
+      "sha256": "74b04ce94481173a24aeeb453af178b51f0b4bca2e26ebf794be40aa9f4db071",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/13094129",
+      "requested_at_utc": "2026-11-04T13:37:24.2631990Z"
+    },
+    {
+      "filename": "flourishingStateMonth.csv",
+      "file_id": 13094130,
+      "bytes": 38983768,
+      "md5": "d3c772ebc88c97a774002c28c4b2c0ac",
+      "sha256": "a390c8a0deaf9476a0032e1af37671b63bd83bc3c6f2429544f22c85504a6a93",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/13094130?format=original",
+      "requested_at_utc": "2026-11-04T13:38:11.2417332Z"
+    },
+    {
+      "filename": "Indicators.md",
+      "file_id": 13094545,
+      "bytes": 2921,
+      "md5": "07c2fe0379e706410c9cf04ccd817486",
+      "sha256": "7cb73d670250018481203575573e5789637d4b21359926d8a8c369dc1a5bc3bf",
+      "verification": "Local size and MD5 matched the official release manifest; SHA256 is the retained local fingerprint, not a separately downloaded official copy."
+    }
+  ],
+  "interpretation": "The retained state-month CSV and Parquet match the official original-format downloads byte for byte. Versions 1.0, 2.0, 2.1, 3.0 and 3.1 use the same two file IDs and checksums; the original local download date/version cannot be inferred from these files."
+}

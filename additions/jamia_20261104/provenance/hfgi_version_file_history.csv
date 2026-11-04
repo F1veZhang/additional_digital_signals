@@ -1,0 +1,15 @@
+release,release_time_utc,file_id,catalog_name,original_name,original_bytes,md5
+3.1,2026-01-27T22:54:26Z,13094129,flourishingStateMonth.parquet,flourishingStateMonth.parquet,17143377,15d94ab940ffd88966eea090463d43ae
+3.1,2026-01-27T22:54:26Z,13094130,flourishingStateMonth.tab,flourishingStateMonth.csv,38983768,d3c772ebc88c97a774002c28c4b2c0ac
+3.1,2026-01-27T22:54:26Z,13094545,Indicators.md,Indicators.md,2921,07c2fe0379e706410c9cf04ccd817486
+3.0,2025-11-03T23:02:06Z,13094129,flourishingStateMonth.parquet,flourishingStateMonth.parquet,17143377,15d94ab940ffd88966eea090463d43ae
+3.0,2025-11-03T23:02:06Z,13094130,flourishingStateMonth.tab,flourishingStateMonth.csv,38983768,d3c772ebc88c97a774002c28c4b2c0ac
+3.0,2025-11-03T23:02:06Z,13094545,Indicators.md,Indicators.md,2921,07c2fe0379e706410c9cf04ccd817486
+2.1,2025-11-03T22:56:58Z,13094129,flourishingStateMonth.parquet,flourishingStateMonth.parquet,17143377,15d94ab940ffd88966eea090463d43ae
+2.1,2025-11-03T22:56:58Z,13094130,flourishingStateMonth.tab,flourishingStateMonth.csv,38983768,d3c772ebc88c97a774002c28c4b2c0ac
+2.1,2025-11-03T22:56:58Z,13094545,Indicators.md,Indicators.md,2921,07c2fe0379e706410c9cf04ccd817486
+2.0,2025-10-28T23:48:05Z,13094129,flourishingStateMonth.parquet,flourishingStateMonth.parquet,17143377,15d94ab940ffd88966eea090463d43ae
+2.0,2025-10-28T23:48:05Z,13094130,flourishingStateMonth.tab,flourishingStateMonth.csv,38983768,d3c772ebc88c97a774002c28c4b2c0ac
+2.0,2025-10-28T23:48:05Z,13094545,Indicators.md,Indicators.md,2921,07c2fe0379e706410c9cf04ccd817486
+1.0,2025-10-28T22:55:53Z,13094129,flourishingStateMonth.parquet,flourishingStateMonth.parquet,17143377,15d94ab940ffd88966eea090463d43ae
+1.0,2025-10-28T22:55:53Z,13094130,flourishingStateMonth.tab,flourishingStateMonth.csv,38983768,d3c772ebc88c97a774002c28c4b2c0ac
